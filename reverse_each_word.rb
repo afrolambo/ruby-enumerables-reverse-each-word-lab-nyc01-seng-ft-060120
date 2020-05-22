@@ -10,6 +10,7 @@ def reverse_each_word(string)
 end 
 
 def reverse_each_word_collect(string)
+  binding.pry
   array = string.split(" ")
   new = []
   array.collect do|string|
