@@ -1,3 +1,4 @@
 def reverse_each_word(string)
-  string
+ arry = w % (string) 
+ 
 end 
