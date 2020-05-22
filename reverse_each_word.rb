@@ -9,5 +9,4 @@ def reverse_each_word(string)
   reversed.join("")
 end 
 end 
-end 
 binding.pry
